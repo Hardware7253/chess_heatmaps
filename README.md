@@ -23,3 +23,17 @@ Black Knight  | 8
 Black Bishop  | 9
 Black Queen   | 10
 Black King    | 11
+
+# Sub array visualisation
+How the indexes of the sub arrays correspond to chess board coordinates
+
+8|00|01|02|03|04|05|06|07|
+-|--|--|--|--|--|--|--|--|
+7|08|09|10|11|12|13|14|15|
+6|16|17|18|19|20|21|22|23|
+5|24|25|26|27|28|29|30|31|
+4|32|33|34|35|36|37|38|39|
+3|40|41|42|43|44|45|46|47|
+2|48|49|50|51|52|53|54|55|
+1|56|57|58|69|60|61|62|63|
+-|A |B |C |D |E |F |G |H |
